@@ -1,10 +1,10 @@
 ### 🐵我是谦
 
-🌹一个练习两年半的 Java 练习生，是个菜🐔
+🌹 一个练习两年半的 Java 练习生，是个菜🐔
 
-🌹Github地址：https://github.com/zgh-qian
+🌹 **Github**地址：https://github.com/zgh-qian
 
-🌹Gitee地址：https://gitee.com/zgh-qian
+🌹 **Gitee**地址：https://gitee.com/zgh-qian
 
 ### ✨我的技能
 
@@ -50,8 +50,12 @@
 ### 🚩我的项目
 
 * 业务项目
-
+  * [🔥 CodePartner 仿OJ在线评测系统](https://gitee.com/zgh-qian/codingpartner-backend)
+  * [🔍QAPI开放平台](https://gitee.com/zgh-qian/qapi-backend)
+  
 * 组件项目
+  * [🚀 轻量级 RPC 框架 基于 Vert.x](https://github.com/zgh-qian/qian-rpc)
+
 
 ### 👬🏻联系我
 
