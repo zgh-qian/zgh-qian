@@ -50,11 +50,11 @@
 ### 🚩我的项目
 
 * 业务项目
-  * [🔥 CodePartner 仿OJ在线评测系统](https://gitee.com/zgh-qian/codingpartner-backend)
-  * [🔍QAPI开放平台](https://gitee.com/zgh-qian/qapi-backend)
+  * [🔥 CodePartner 仿OJ在线评测系统 (Spring Cloud + MQ + Docker)](https://gitee.com/zgh-qian/codingpartner-backend)
+  * [🔍QAPI开放平台 (SpringBoot + Dubbo + Sentinel)](https://gitee.com/zgh-qian/qapi-backend)
   
 * 组件项目
-  * [🚀 轻量级 RPC 框架 基于 Vert.x](https://github.com/zgh-qian/qian-rpc)
+  * [🚀 轻量级 RPC 框架 (Vert.x + etcd)](https://github.com/zgh-qian/qian-rpc)
 
 
 ### 👬🏻联系我
