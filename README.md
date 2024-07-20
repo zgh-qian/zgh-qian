@@ -50,8 +50,8 @@
 ### 🚩我的项目
 
 * 业务项目
-  * [🔥 CodePartner 仿OJ在线评测系统 (Spring Cloud + MQ + Docker)](https://gitee.com/zgh-qian/codingpartner-backend)
-  * [🔍QAPI开放平台 (SpringBoot + Dubbo + Sentinel)](https://gitee.com/zgh-qian/qapi-backend)
+  * [🔥 CodePartner 仿OJ在线评测系统 (Spring Cloud + MQ + Docker)](https://github.com/zgh-qian/codingpartner)
+  * [🔍QAPI开放平台 (SpringBoot + Dubbo + Sentinel)](https://github.com/zgh-qian/qapi)
   * [🧨QianBot(Vue 3 + Spring Boot + Redis + ChatGLM AI + SSE + COS)](https://github.com/zgh-qian/qianbot)
 * 组件项目
   * [🚀 轻量级 RPC 框架 (Vert.x + etcd)](https://github.com/zgh-qian/qian-rpc)
