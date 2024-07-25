@@ -56,6 +56,11 @@
 * 组件项目
   * [🚀 轻量级 RPC 框架 (Vert.x + etcd)](https://github.com/zgh-qian/qian-rpc)
 * 工具项目
+* Node.js 项目
+  * [🔮QianShell 终端(express)](https://github.com/zgh-qian/qianshell)
+* demo
+  * [🧩websocket-demo](https://github.com/zgh-qian/websocket-demo)
+
 
 ### 👬🏻联系我
 
