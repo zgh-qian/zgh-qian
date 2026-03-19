@@ -1,11 +1,27 @@
-### 🐵我是谦
+### 🐵我是程序员谦之猪
 
-🌹 一个练习两年半的 Java 练习生，是个菜🐔
+🌹 一个练习两年半的 Java 练习生
 
-🌹 **Github**地址：https://github.com/zgh-qian
+🌹 **邮箱**：3247666236@qq.com
 
-🌹 **Gitee**地址：https://gitee.com/zgh-qian
+🌹 **Github**：https://github.com/zgh-qian
 
+🌹 **Gitee**：https://gitee.com/zgh-qian
+
+
+### 🚩我的项目
+
+* [🔥 OJ在线评测系统](https://github.com/zgh-qian/codingpartner)
+* [🔍API开放平台](https://github.com/zgh-qian/qapi)
+* [🧨智能答题应用系统](https://github.com/zgh-qian/qianbot)
+
+* [🚀 轻量级 RPC 框架](https://github.com/zgh-qian/qian-rpc)
+
+* [🔮 浏览器模拟终端](https://github.com/zgh-qian/qianshell)
+
+### 🧩Demo
+
+* [websocket-demo](https://github.com/zgh-qian/websocket-demo)
 ### ✨我的技能
 
 <p align="center">
@@ -46,22 +62,6 @@
     <img src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white&logoSize=white" alt="Git">
   </a>
 </p>
-
-### 🚩我的项目
-
-* 业务项目
-  * [🔥 CodePartner 仿OJ在线评测系统 (Spring Cloud + MQ + Docker)](https://github.com/zgh-qian/codingpartner)
-  * [🔍QAPI开放平台 (SpringBoot + Dubbo + Sentinel)](https://github.com/zgh-qian/qapi)
-  * [🧨QianBot(Vue 3 + Spring Boot + Redis + ChatGLM AI + SSE + COS)](https://github.com/zgh-qian/qianbot)
-* 组件项目
-  * [🚀 轻量级 RPC 框架 (Vert.x + etcd)](https://github.com/zgh-qian/qian-rpc)
-* 工具项目
-* Node.js 项目
-  * [🔮QianShell 终端(express)](https://github.com/zgh-qian/qianshell)
-* demo
-  * [🧩websocket-demo](https://github.com/zgh-qian/websocket-demo)
-
-
 ### 👬🏻联系我
 
 [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=github)](https://github.com/zgh-qian)
